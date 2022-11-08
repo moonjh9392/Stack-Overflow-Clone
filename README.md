@@ -50,7 +50,7 @@ Other Tools `Slack`, `Git`, `Github`
 - 답변 채택
 #### 메인 페이지
 - 검색 (검색어 및 태그 검색)
-- 질문 전체 조회 및 페이지네이션
+- 질문 전체 조회 및 페이지네이션 `부분 미구현`
 #### 마이페이지
 - 마이페이지 사용자 조회
 ![사용자 조회](https://user-images.githubusercontent.com/93763666/200302488-d435bcdf-e237-427a-a420-156def2645af.gif)
